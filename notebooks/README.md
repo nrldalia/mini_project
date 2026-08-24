@@ -1,6 +1,4 @@
-# 🗄 SQL Queries & Database Analytics
+# 🐍 Python & Google Colab Data Workflows
 
 ## Overview
-This folder contains SQL scripts used for preliminary data quality auditing, summary statistic aggregation, percentile calculation, and outlier detection prior to visualization and modeling.
-
----
+This folder contains Google Colab notebooks (`.ipynb`) dedicated to automated data cleaning, feature engineering, exploratory visual analysis, and statistical hypothesis testing.
